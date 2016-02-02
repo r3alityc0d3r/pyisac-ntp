@@ -4,5 +4,5 @@ pyisac-ntp class
 Class to manage NTP on servers
 """
 
-class ntp(object):
+class Ntp(object):
     pass
